@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "723845001804",
+    "firebase_url": "https://locationads-fda16.firebaseio.com",
+    "project_id": "locationads-fda16",
+    "storage_bucket": "locationads-fda16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723845001804:android:72aa91157860c92f",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723845001804-vb2l9ec77equntn26km559p2l3fpm4c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.test",
+            "certificate_hash": "7f07018d8a999b88d23497eefc6e52f005db6294"
+          }
+        },
+        {
+          "client_id": "723845001804-a8u39ardied6sifsm5ibis953ov5jmer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxTkVjHIxgU6jgKjz2QTq5v-OQB746Wv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723845001804-a8u39ardied6sifsm5ibis953ov5jmer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723845001804:android:782895ed21b6ffc6",
+        "android_client_info": {
+          "package_name": "mytextview.example.com.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723845001804-a8u39ardied6sifsm5ibis953ov5jmer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxTkVjHIxgU6jgKjz2QTq5v-OQB746Wv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

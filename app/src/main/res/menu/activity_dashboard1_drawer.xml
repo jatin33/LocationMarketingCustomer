@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Rate,Review and Share" />
+        <item
+            android:id="@+id/nav_discountbeacon"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Discount Beacon" />
+        <item
+            android:id="@+id/nav_Referandearn"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Share App" />
+        <item
+            android:id="@+id/history"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Purchase history" />
+
+    </group>
+
+    <item android:title="Changes">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
